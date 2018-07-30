@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.coinmarketrank.io" version="1.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>MrAddon Support</name>
+    <description>
+        MrAddon Support
+    </description>
+    <author email="raulpelaez@mraddon.com" href="http://www.mraddon.com">
+        MrAddon
+    </author>
+    <content src="index.html" />
+    <icon height="40" platform="ios" src="images/40.png" width="40" />
+    <icon height="76" platform="ios" src="images/76.png" width="76" />
+    <icon height="152" platform="ios" src="images/152.png" width="152" />
+    <icon height="120" platform="ios" src="images/120.png" width="120" />
+    <icon height="1024" platform="ios" src="images/1024.jpg" width="1024" />
+    <icon src="images/logo.png" />
+    <access origin="https://*/*" />
+    <access origin="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="http://*/*" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+</widget>
