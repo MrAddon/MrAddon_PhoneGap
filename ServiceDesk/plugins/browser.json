@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.coinmarketrank.io"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.mraddon.servicedesk"
         }
     },
     "dependent_plugins": {}
