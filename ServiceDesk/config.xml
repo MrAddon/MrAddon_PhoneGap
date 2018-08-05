@@ -42,6 +42,9 @@
     <icon src="images/1024.jpg" platform="ios" width="1024" height="1024" />    
     <icon src="images/logo.png" />
     <preference name="ShowSplashScreenSpinner" value="false" />
+    
+    <preference name="android-minSdkVersion" value="26" />
+    
     <!--<preference name="phonegap-version" value="cli-7.1.0" />-->
     <!--<preference name="android-minSdkVersion" value="26" />-->
     <!--

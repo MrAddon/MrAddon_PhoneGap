@@ -21,4 +21,5 @@
     <allow-navigation href="https://*/*" />
     <allow-navigation href="http://*/*" />
     <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="android-minSdkVersion" value="26" />
 </widget>
