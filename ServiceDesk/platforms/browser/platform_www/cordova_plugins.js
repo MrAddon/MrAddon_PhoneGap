@@ -356,7 +356,8 @@ module.exports.metadata =
     "cordova-plugin-inappbrowser": "3.0.0",
     "cordova-plugin-camera": "2.1.1",
     "cordova-plugin-file": "6.0.1",
-    "cordova-plugin-media-capture": "1.2.0"
+    "cordova-plugin-media-capture": "1.2.0",
+    "cordova-plugin-ios-camera-permissions": "1.2.0"
 }
 // BOTTOM OF METADATA
 });

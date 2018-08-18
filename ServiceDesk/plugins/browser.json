@@ -18,6 +18,9 @@
         },
         "cordova-plugin-media-capture": {
             "PACKAGE_NAME": "com.mraddon.servicedesk"
+        },
+        "cordova-plugin-ios-camera-permissions": {
+            "PACKAGE_NAME": "com.mraddon.servicedesk"
         }
     },
     "dependent_plugins": {
