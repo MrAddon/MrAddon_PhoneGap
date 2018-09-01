@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.mraddon.servicedesk" version="1.1.35" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.mraddon.servicedesk" version="1.1.36" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MrAddon Support</name>
     <description>
         MrAddon Support
@@ -46,7 +46,8 @@
     <icon src="images/logo.png" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     
-    <preference name="android-minSdkVersion" value="26" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-targetSdkVersion" value="26" />
     
     <!--<preference name="phonegap-version" value="cli-7.1.0" />-->
     <!--<preference name="android-minSdkVersion" value="26" />-->
